@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arawakoo31002.github.io/csb-lplwue/static/css/main.491ee8d7.chunk.css",
+    "main.js": "https://arawakoo31002.github.io/csb-lplwue/static/js/main.8c32d345.chunk.js",
+    "main.js.map": "https://arawakoo31002.github.io/csb-lplwue/static/js/main.8c32d345.chunk.js.map",
+    "runtime-main.js": "https://arawakoo31002.github.io/csb-lplwue/static/js/runtime-main.8833ec3a.js",
+    "runtime-main.js.map": "https://arawakoo31002.github.io/csb-lplwue/static/js/runtime-main.8833ec3a.js.map",
+    "static/js/2.ff25787b.chunk.js": "https://arawakoo31002.github.io/csb-lplwue/static/js/2.ff25787b.chunk.js",
+    "static/js/2.ff25787b.chunk.js.map": "https://arawakoo31002.github.io/csb-lplwue/static/js/2.ff25787b.chunk.js.map",
+    "index.html": "https://arawakoo31002.github.io/csb-lplwue/index.html",
+    "static/css/main.491ee8d7.chunk.css.map": "https://arawakoo31002.github.io/csb-lplwue/static/css/main.491ee8d7.chunk.css.map",
+    "static/js/2.ff25787b.chunk.js.LICENSE.txt": "https://arawakoo31002.github.io/csb-lplwue/static/js/2.ff25787b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8833ec3a.js",
+    "static/js/2.ff25787b.chunk.js",
+    "static/css/main.491ee8d7.chunk.css",
+    "static/js/main.8c32d345.chunk.js"
+  ]
+}
